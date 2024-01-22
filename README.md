@@ -1,6 +1,10 @@
 # openai-tutorialslab
 Biomedical Informatics lab tutorials for how to use the OpenAI API.
 
+## Tutorials
+
+### NHLBI
+**NHLBI-BDC-openai-logprobs.ipynb**
 
 ## Install
 
