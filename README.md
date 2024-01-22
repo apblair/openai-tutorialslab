@@ -5,6 +5,7 @@ Biomedical Informatics lab tutorials for how to use the OpenAI API.
 
 ### NHLBI
 **NHLBI-BDC-openai-logprobs.ipynb**
+1. Classify cardiac research article abstracts into a set of predefined categories and evaluate the log probability. Demonstrates chat prompt engineering using `chat.completions.create` and `model=gpt-3.5-turbo` with the `logprobs` and `top_logprobs` parameters set for evaluating the confidence of the model's predictions.
 
 ## Install
 
